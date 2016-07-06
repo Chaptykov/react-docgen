@@ -10,7 +10,7 @@
  *
  */
 
-var reactModules = ['react', 'react/addons', 'react-native'];
+var reactModules = ['react', 'react/addons', 'react-native', 'preact-compat', 'react-lite'];
 
 /**
  * Takes a module name (string) and returns true if it refers to a root react
